@@ -1,5 +1,5 @@
 # Release Notes
-
+f499bbd8b903831e0e416e804366ece721dd8d05
 ## Development
 
 [Commits](https://github.com/handlebars-lang/handlebars.js/compare/v4.7.7...master)
